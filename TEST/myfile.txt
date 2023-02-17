@@ -2,3 +2,4 @@ This is test file, changes to the end of the file
 this is a new line
 This is the bug fix
 abcd
+dfdfg
