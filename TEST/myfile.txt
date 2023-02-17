@@ -1,4 +1,10 @@
 This is test file, changes to the end of the file
 this is a new line
+<<<<<<< HEAD
 abcd
 
+=======
+This is the bug fix
+abcd
+dfdfg
+>>>>>>> BugFix
